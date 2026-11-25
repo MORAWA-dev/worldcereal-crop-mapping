@@ -1,4 +1,6 @@
-# WorldCereal crop type mapping with Presto and Random Forest
+# WorldCereal crop mapping with Presto
+
+Two independent educational case studies: France (2024) and [Koumbia, Burkina Faso (2022)](burkina/README.md). The Burkina Faso extension compares conventional spectral features against seasonal, growth-stage and monthly Presto embeddings under temporal and spatial validation.
 
 An independent practical extension of the ESA 14th Advanced Training Course on Land Remote Sensing (2025), completed by Ibrahim Kabore in November 2026. The project produces a 10 m crop-type map and model-confidence map for a 25 km² demonstration area in France in 2024.
 
